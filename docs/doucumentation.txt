@@ -1,0 +1,20 @@
+5/1/19
+
+1. installed cygwin
+
+2. used http://cygwin.osuosl.org
+
+3. ran cygwin
+
+4. installed g++ compiler with the g++ core
+
+5/2/19
+
+5. installed Visual Studio Code
+    find enviormental variables( windows )
+    edit the user path
+    Add a line to point to cygwin directory
+    (default C:\cygwin64\bin)
+6. used C:\cygwin64\bin\bash.exe command to run cygwin in powershell(administrator)
+    it intergraded cygwin into powershell most commands are different
+7. reboot
