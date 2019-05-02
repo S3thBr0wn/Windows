@@ -4,9 +4,9 @@
 
 2. used http://cygwin.osuosl.org
 
-3. ran cygwin
+3. first time running cygwin in new windows
 
-4. installed g++ compiler with the g++ core
+4. installed g++ compiler along with the g++ core after installation
 
 5/2/19
 
